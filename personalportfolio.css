@@ -165,7 +165,7 @@ hr {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 8rem;
+  gap: 6rem;
 }
 #profile-link p {
   font-size: 2rem;
@@ -179,5 +179,5 @@ footer {
   font-size: 2rem;
 }
 .lst-img {
-  height: 400px;
+  height: 300px;
 }
